@@ -1,4 +1,4 @@
-# 🚀 Day 13 of JavaScript Journey
+# 🚀 Day 13 of JavaScript_Journey
 Topics Covered:
 
 JSON
